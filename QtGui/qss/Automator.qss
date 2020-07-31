@@ -1,0 +1,112 @@
+QListView#run_interface{
+    background-image: url(./resource/bgimg.png);
+}
+QListView#case_header{
+    background-image: url(./resource/bgimg3.png);
+    color:#FFFFFF;
+    border:0.5px solid white;
+    }
+QLabel#main_tips{
+    font:11pt '宋体';
+    color:#F4A460;
+    font-weight:75;
+    font-weight:bold;
+    }
+QLabel#main_tips_frame{
+    font:11pt '宋体';
+    color:#F4A460;
+    font-weight:75;
+    font-weight:bold;
+    border:1px solid white;
+}
+QLabel#run_param_tips{
+    font:10pt '宋体';
+    color:white;
+    font-weight:75;
+    font-family:Aharoni
+    }
+QLineEdit#ip_param{
+    font:10pt '宋体';
+    border-radius:3px;
+    background-color:rgba(113,113,113,0.5);
+    color:white;
+    }
+QComboBox#browser_param{
+    font:10pt '宋体';
+    background-color:rgba(113,113,113,0.5);
+    color:white;
+    border-radius:3px;
+    }
+QComboBox#module_param{
+    font:10pt '宋体';
+    background-color:rgba(113,113,113,0.5);
+    color:white;
+    border-radius:3px;
+    }
+QSpinBox#loop_param{
+    font:10pt '宋体';
+    border-radius:3px;
+    background-color:rgba(99,99,99,1);
+    color:white;
+    }
+QRadioButton#report_param{
+    font:10pt '宋体';
+    color:white;
+    }
+QLabel#report_file_param{
+    font:9pt '宋体';
+    color:#97FF48;
+    }
+QLabel#test_case_param{
+    font:10pt '宋体';
+    color:#FFF666;
+    font-weight:75;
+    font-family:Aharoni;
+    }
+QFrame#line{
+    background-color:#FFFFFF;
+    }
+QLabel#test_case_show{
+    font:15pt '宋体';
+    color:#FFF666;
+    font-family:Aharoni;
+    }
+QToolButton#button_enable{
+    font:12pt '宋体';
+    background-color:#419AD9;
+    color: white;
+    border-radius:3px;
+    }
+QToolButton#button_display{
+    font:12pt '宋体';
+    background-color:#8e7f7c;
+    color: white;
+    border-radius:3px;
+    }
+QLabel#case_name{
+    font:10pt;
+    color:white;
+    font-weight:75;
+    font-family:Aharoni;
+    }
+QLabel#case_header_show{
+    font:10pt '宋体';
+    color:white;
+    font-weight:75;
+    }
+QToolButton#small_button_show{
+    font:9pt '宋体';
+    background-color:#419AD9;
+    color: white;
+    border-radius:3px;
+    }
+QPlainTextEdit#plaintext{
+    background-image: url(./resource/bgimg3.png);
+    color:#D3D3D3;
+    }
+QListWidget#log_show{
+    background-image: url(./resource/bgimg3.png);
+    color:#FFFFFF;
+    border:1px solid white;
+    }
+

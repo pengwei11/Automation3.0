@@ -1,0 +1,9 @@
+IP: www.baidu.com
+Browser: Google Chrome
+ReportAddress: ''
+loop: '1'
+ImportAddress: "E:\\Automation3.0\\\u767E\u5EA6\u6D4B\u8BD5\u7528\u4F8B.xlsx"
+Moudle: "\u641C\u7D22"
+Version: ''
+CaseNum: 1
+Loop_num: 0

@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Controller 'appapi\Controller\User' not exists!</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
+	<link rel="shortcut icon" href="/image/favicon.ico" />
+	<link rel="stylesheet" type="text/css" href="/_/theme/error.css">
+</head>
+<body>
+	<div class="error">
+		<div class="error_img">
+			<img src="/image/g.png" alt="">
+		</div>
+		<div class="error_p">
+			<div class="so">Controller 'appapi\Controller\User' not exists!</div>
+			<div class="fa">
+				<a href="/">返回首页</a><span>还有<i id="num">5</i>秒回到首页</span>
+			</div>
+		</div>
+	</div>
+</body>
+<script type="text/javascript" src="/js/jquery/1.9.1.js"></script>
+<script type="text/javascript">
+	$(function () {            
+	   setTimeout("lazyGo();", 1000);
+	});
+	function lazyGo() {
+		var sec = $("#num").text();
+		
+		if(sec != "") {
+			$("#num").text(--sec);
+			if (sec > 0)
+				setTimeout("lazyGo();", 1000);
+			else
+				window.location.href = "/";
+		}
+	}
+</script>
+</html>

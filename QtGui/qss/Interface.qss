@@ -1,0 +1,109 @@
+QListWidget#listWidget_2{
+    background-image: url(./resource/api-resource/bgimg2.jpg);
+    color:white;
+    border:1px solid white;
+    }
+QListView#listView_2{
+    background-image: url(./resource/api-resource/bgimg2.jpg);
+    color:#FFFFFF;
+    border:0.5px solid white;
+    }
+QTableWidget#tableWidget{
+    background-image: url(./resource/api-resource/bgimg2.jpg);
+    gridline-color : #303030;
+    QHeaderView::section{border: 1px solid red;}
+    }
+QTableWidget#tableWidget_2{
+    background-image: url(./resource/api-resource/bgimg2.jpg);
+    gridline-color : #303030
+    }
+QTableWidget#tableWidget_2::item{
+    color:white;
+    }
+QTableWidget#tableWidget::item{
+    color:white;
+    }
+QTabWidget#tabWidget{
+    background: #828282;
+}
+QTabBar{
+    background-color: rgb(102, 102, 102);
+}
+QTabBar::tab {
+    background: #5B5B5B;
+    min-width: 30ex;
+    color: white
+}
+    QTabBar::tab:hover {
+        background: #828282;
+    }
+
+    QTabBar::tab:movable {
+        background: #828282;
+    }
+
+    QTabBar::tab:selected {
+        background: #828282;
+        border-radius:3px;
+    }
+QLineEdit#lineEdit{
+    font:10pt '宋体';
+    border-radius:3px;
+    background-color:#838B8B;
+    color:white;
+    }
+QLabel#label{
+    color:white;
+    font-weight:75;
+    font-family:Aharoni
+    }
+QLabel#label_2{
+    color:white;
+    font-weight:75;
+    font-family:Aharoni
+    }
+QLabel#label_3{
+    color:white;
+    font-weight:75;
+    font-family:Aharoni
+    }
+QLabel#label_4{
+    color:white;
+    font-weight:75;
+    font-family:Aharoni
+    }
+QLabel#label_5{
+    color:white;
+    font-weight:75;
+    font-family:Aharoni
+    }
+QToolButton#toolButton_2{
+    font:11pt '宋体';
+    background-color:#419AD9;
+    color: white;
+    border-radius:3px;
+    }
+QToolButton#toolButton_4{
+    font:11pt '宋体';
+    background-color:#419AD9;
+    color: white;
+    border-radius:3px;
+    }
+QToolButton#toolButton_5{
+    font:11pt '宋体';
+    background-color:#419AD9;
+    color: white;
+    border-radius:3px;
+    }
+QToolButton#toolButton{
+    font:9pt '宋体';
+    background-color:#419AD9;
+    color: white;
+    border-radius:3px;
+    }
+QToolButton#toolButton_3{
+    font:9pt '宋体';
+    background-color:#419AD9;
+    color: white;
+    border-radius:3px;
+    }

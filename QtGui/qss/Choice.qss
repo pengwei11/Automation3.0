@@ -1,0 +1,15 @@
+QToolButton#web{
+    font:12pt '宋体';
+    background-color:#419AD9;
+    color: white;
+    border-radius:3px;
+}
+QToolButton#interface{
+    font:12pt '宋体';
+    background-color:#FF4500;
+    color: white;
+    border-radius:3px;
+}
+QListView{
+    background-image: url(./resource/bgimg.png);
+}
