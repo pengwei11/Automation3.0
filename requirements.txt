@@ -104,7 +104,7 @@ PyExecJS==1.5.1
 pygame==1.9.6
 PyGetWindow==0.0.7
 pyglet==1.4.6
-Pygments==2.2.0
+Pygments==2.7.4
 PyInstaller==3.5
 PyMsgBox==1.0.7
 PyNaCl==1.4.0
