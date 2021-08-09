@@ -127,7 +127,7 @@ python-dotenv==0.10.3
 PyTweening==1.0.3
 pytz==2018.5
 PyWavelets==1.1.1
-pywin32==223
+pywin32==301
 pywin32-ctypes==0.2.0
 pywinauto==0.6.5
 pywinpty==0.5.4
