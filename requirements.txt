@@ -80,7 +80,7 @@ ntplib==0.3.3
 numpy==1.17.3
 openpyxl==2.6.2
 pandocfilters==1.4.2
-paramiko==2.7.1
+paramiko==2.10.1
 parse==1.15.0
 parso==0.3.1
 partial==1.0
