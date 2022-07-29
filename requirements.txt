@@ -68,7 +68,7 @@ macholib==1.10
 Markdown==3.0.1
 MarkupSafe==1.0
 matplotlib==3.1.1
-mistune==0.8.4
+mistune==2.0.3
 monkey==0.1
 MouseInfo==0.1.2
 multidict==4.5.2
