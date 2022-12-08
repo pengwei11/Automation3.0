@@ -15,7 +15,7 @@ bleach==3.0.2
 bpy==1.2.3
 bs4==0.0.1
 cchardet==2.1.4
-certifi==2018.8.13
+certifi==2022.12.7
 cffi==1.12.3
 chardet==3.0.4
 Click==7.0
